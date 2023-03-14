@@ -1,0 +1,3 @@
+#!/bin/bash
+telnetr towel.blinkenlights.nl
+
